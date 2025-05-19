@@ -10,7 +10,7 @@ This repository contains a curated collection of visual previews for the Nousish
 ![Mockup3](https://github.com/nejrariizviic/Nousish-Vera-Brand-Visuals/blob/main/Mockups/mockup2.png)
 
 ## Billboard
-![Bl](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Mockups/stickers.png)
+![Bl](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Assets/Billboards/Billboard3.png)
 
 ## Stickers
 ![Sticker1](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Mockups/stickers.png)
