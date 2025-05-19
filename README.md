@@ -7,7 +7,7 @@ This repository contains a curated collection of visual previews for the Nousish
 ## Mockups 
 ![Mockup1](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Mockups/mockup1.png)
 ![Mockup2](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Mockups/mockup3.png)
-![Mockup3](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Mockups/mockup3.png)
+![Mockup3](https://github.com/nejrariizviic/Nousish-Vera-Brand-Visuals/blob/main/Mockups/mockup2.png?raw=true)
 
 ## Stickers
 ![Mockups](https://raw.githubusercontent.com/nejrariizviic/Designing-Corporate-Identity-and-Marketing-Materials---AL-NE-Natural-Cosmetics/refs/heads/main/Assets/mockupss.png)
