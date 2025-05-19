@@ -4,10 +4,10 @@ This repository contains a curated collection of visual previews for the Nousish
 
 🛑 Note: PSD project files, editable mockups, or raw resources are not included in this repository. This is a showcase-only repo featuring finished works as static images.
 
-## Logo 
+## Mockups 
 ![Logo](https://raw.githubusercontent.com/nejrariizviic/Designing-Corporate-Identity-and-Marketing-Materials---AL-NE-Natural-Cosmetics/refs/heads/main/Assets/logordm.png)
 
-## Mockups
+## Stickers
 ![Mockups](https://raw.githubusercontent.com/nejrariizviic/Designing-Corporate-Identity-and-Marketing-Materials---AL-NE-Natural-Cosmetics/refs/heads/main/Assets/mockupss.png)
 
 
