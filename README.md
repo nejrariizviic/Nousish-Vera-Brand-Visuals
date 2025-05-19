@@ -32,11 +32,13 @@ Within repository, you can find design ideas and materials that reflect the core
 
 ## Included Assets
 
-- Billboard Visuals
+As part of the Nousish Vera branding project, various visual elements were created to represent the product line and brand identity. The main components include:
 
-- Mockups - used to simulate how the visuals would appear in real-world promotional contexts.
+- Billboard Visuals – designed visuals of billboard advertisements were created to show how the brand’s products could appear in real outdoor advertising settings. These designs help express the brand identity in a large-format medium.
 
-- Sticker Designs - branding elements for packaging and print materials.
+- Mockups – realistic mockups of promotional materials were used to simulate how the final visuals would appear in real-world contexts.
+
+- Sticker Designs – branded sticker visuals were developed to align with the overall visual identity of the brand. 
 
 
 ## Tools Used
