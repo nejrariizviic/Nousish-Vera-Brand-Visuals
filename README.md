@@ -42,12 +42,12 @@ As part of the Nousish Vera branding project, various visual elements were creat
 
 
 ## Tools Used
+
 The following tools were used to create and refine the visual materials in this project:
 
-- Adobe Photoshop – the primary software used for designing all visual elements. It was used for image editing, layout design, typography, and preparing the final assets for presentation.
+- Adobe Photoshop – the primary software used for designing all visual elements.
 
-- Freepik – a platform used to source professional PSD mockups. These mockups were used to showcase how the designs, such as billboards and stickers, would appear in real promotional settings. Utilizing these resources allowed for a realistic visualization of the brand's final look.
-
+- Freepik – a resource platform for high-quality PSD mockups, used to demonstrate how the final designs would be applied in actual marketing environments.
 
 
 
