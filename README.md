@@ -1,64 +1,62 @@
-# Nousish-Vera – Brand Visuals & Marketing Materials
-This repository contains a curated collection of visual previews for the Nousish-Vera brand — a conceptual wellness and cosmetics line. The project includes billboard campaigns, product mockups, and sticker designs for items such as serums, creams, shampoos, and perfumes.
+# AL'NE Natural Cosmetics – Brand Identity & Visual Assets
 
-🛑 Only preview images of the final works are shared in this repository. Original source files (e.g. PSD) are not included to protect the privacy, originality, and intellectual property behind the design concepts.
+This repository is a collection of design materials and assets created as part of the AL'NE project, aimed at establishing a cohesive brand identity. The goal of this project is to visually communicate the core values of AL'NE – purity, sustainability, and beauty – through thoughtfully designed branding elements.
 
-📸 ## Preview
-<p align="center"> <img src="preview/billboard-mockup.jpg" alt="Billboard Mockup for Nousish-Vera" width="600"/> </p>
-Above: Example of a billboard mockup showcasing the serum product.
+## Logo 
+![Logo](https://raw.githubusercontent.com/nejrariizviic/Designing-Corporate-Identity-and-Marketing-Materials---AL-NE-Natural-Cosmetics/refs/heads/main/Assets/logordm.png)
 
-## Table of Contents
-Project Overview
-
-Included Assets
-
-Tools Used
+## Mockups
+![Mockups](https://raw.githubusercontent.com/nejrariizviic/Designing-Corporate-Identity-and-Marketing-Materials---AL-NE-Natural-Cosmetics/refs/heads/main/Assets/mockupss.png)
 
 
-Disclaimer & Privacy Notice
+
+
+## Table of Contents  
+- [Project Overview](#project-overview)  
+- [Included Assets](#included-assets)  
+- [Tools used](#tools-used)
+- [Usage Guidelines](#usage-guidelines) 
 
 ## Project Overview
-Nousish-Vera is a branding concept focused on elegance, purity, and modern self-care. The visuals were created to reflect a clean, minimalist yet luxurious identity. This includes:
 
-Conceptual billboard visuals
+Within repository, you can find design ideas and materials that reflect the core values of AL'NE Natural Cosmetics – authenticity, sustainability, and sophistication. These materials are still in the conceptual phase and were created to represent the brand’s vision across various formats. Although they are not finalized, you can see how these designs might look in real-life settings, as shown in the mockups (located in the folder) and 3D model.
 
-Product sticker graphics
 
-Realistic mockups showing product placement
-
-Designs were developed with attention to harmony, whitespace, and brand tone across various touchpoints.
 
 ## Included Assets
-Billboard Visuals
-Created for various products:
 
-Nourishing Serum
+- Logo – the primary brand mark, designed for versatility across various mediums.
 
-Daily Cream
+- Business Card – a sleek, professional card layout for brand representation.
 
-Herbal Shampoo
+- 3D Bottle Model – a realistic product visualization for packaging and marketing purposes.
 
-Signature Perfume
-
-Mockups
-Used to simulate how the visuals would appear in real-world promotional contexts.
-
-Sticker Designs
-Branding elements for packaging and print materials.
 
 ## Tools Used
-Adobe Photoshop – Primary tool for all visual work, layout, retouching, and composition.
+The following tools and software were used to create and edit the design materials for this project:
 
-Freepik Mockup Resources – Used for generating high-quality promotional mockups.
+- Inkscape – used for designing the brochure, business card, logo, and stamp, ensuring high-quality vector graphics.
+  
+- Freepik (Online Mockup Generator) – used to create realistic mockups, allowing brand elements to be visualized on various products like packaging, clothing, and promotional materials.
+  
+- SketchUp – utilized for 3D modeling, including cosmetic bottle designs and an interior makeup studio scene.
+  
+- Adobe Photoshop – used for basic file adjustments and previews, ensuring compatibility across different platforms.
+  
+Each tool contributed to building a strong and cohesive visual identity for AL'NE Natural Cosmetics.
 
 
-## Disclaimer 
-To maintain the privacy and originality of the work:
 
-PSD project files, editable mockups, or raw resources are not included in this repository.
-
-This is a showcase-only repo featuring finished works as static images.
-
-All ideas and design compositions are original, created solely by the author.
-
+✅ How to Open and View 3D Models
+- Download the files from the 3D model folder.
+  
+- There are two versions of the models:
+  
+   - Bottle models – examples of cosmetic packaging design.
+     
+   - Makeup scene – a makeup room setup featuring the 3D product models.
+     
+- Save the files to your desktop.
+  
+- Import the models into SketchUp or another compatible 3D software to explore the design details and layout in a realistic setting.
 
