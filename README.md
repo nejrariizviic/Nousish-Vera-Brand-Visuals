@@ -1,6 +1,8 @@
-# AL'NE Natural Cosmetics – Brand Identity & Visual Assets
+# Nousish Vera – Brand Visuals & Marketing Materials
 
-This repository is a collection of design materials and assets created as part of the AL'NE project, aimed at establishing a cohesive brand identity. The goal of this project is to visually communicate the core values of AL'NE – purity, sustainability, and beauty – through thoughtfully designed branding elements.
+This repository contains a curated collection of visual previews for the Nousish Vera brand — a conceptual cosmetics line. The project includes billboard campaigns, product mockups, and sticker designs for items such as serums, creams, shampoos and perfumes.
+
+🛑 Note: PSD project files, editable mockups, or raw resources are not included in this repository. This is a showcase-only repo featuring finished works as static images.
 
 ## Logo 
 ![Logo](https://raw.githubusercontent.com/nejrariizviic/Designing-Corporate-Identity-and-Marketing-Materials---AL-NE-Natural-Cosmetics/refs/heads/main/Assets/logordm.png)
@@ -15,7 +17,7 @@ This repository is a collection of design materials and assets created as part o
 - [Project Overview](#project-overview)  
 - [Included Assets](#included-assets)  
 - [Tools used](#tools-used)
-- [Usage Guidelines](#usage-guidelines) 
+
 
 ## Project Overview
 
@@ -25,38 +27,21 @@ Within repository, you can find design ideas and materials that reflect the core
 
 ## Included Assets
 
-- Logo – the primary brand mark, designed for versatility across various mediums.
+- Billboard Visuals
 
-- Business Card – a sleek, professional card layout for brand representation.
+- Mockups - used to simulate how the visuals would appear in real-world promotional contexts.
 
-- 3D Bottle Model – a realistic product visualization for packaging and marketing purposes.
+- Sticker Designs - branding elements for packaging and print materials.
 
 
 ## Tools Used
 The following tools and software were used to create and edit the design materials for this project:
 
-- Inkscape – used for designing the brochure, business card, logo, and stamp, ensuring high-quality vector graphics.
+- Adobe Photoshop – primary tool for all visual work, layout, retouching, and composition.
+
+- Freepik Mockup Resources – used for generating high-quality promotional mockups.
   
-- Freepik (Online Mockup Generator) – used to create realistic mockups, allowing brand elements to be visualized on various products like packaging, clothing, and promotional materials.
-  
-- SketchUp – utilized for 3D modeling, including cosmetic bottle designs and an interior makeup studio scene.
-  
-- Adobe Photoshop – used for basic file adjustments and previews, ensuring compatibility across different platforms.
-  
-Each tool contributed to building a strong and cohesive visual identity for AL'NE Natural Cosmetics.
+Each tool contributed to building a strong and cohesive visual identity for Noursish Vera.
 
 
-
-✅ How to Open and View 3D Models
-- Download the files from the 3D model folder.
-  
-- There are two versions of the models:
-  
-   - Bottle models – examples of cosmetic packaging design.
-     
-   - Makeup scene – a makeup room setup featuring the 3D product models.
-     
-- Save the files to your desktop.
-  
-- Import the models into SketchUp or another compatible 3D software to explore the design details and layout in a realistic setting.
 
