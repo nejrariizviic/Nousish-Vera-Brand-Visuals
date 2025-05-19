@@ -42,13 +42,13 @@ As part of the Nousish Vera branding project, various visual elements were creat
 
 
 ## Tools Used
-The following tools and software were used to create and edit the design materials for this project:
+The following tools were used to create and refine the visual materials in this project:
 
-- Adobe Photoshop – primary tool for all visual work, layout, retouching, and composition.
+- Adobe Photoshop – the primary software used for designing all visual elements. It was used for image editing, layout design, typography, and preparing the final assets for presentation.
 
-- Freepik Mockup Resources – used for generating high-quality promotional mockups.
-  
-Each tool contributed to building a strong and cohesive visual identity for Noursish Vera.
+- Freepik – a platform used to source professional PSD mockups. These mockups were used to showcase how the designs, such as billboards and stickers, would appear in real promotional settings. Utilizing these resources allowed for a realistic visualization of the brand's final look.
+
+
 
 
 
