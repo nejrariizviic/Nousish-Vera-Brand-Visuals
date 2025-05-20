@@ -1,6 +1,6 @@
 # Nousish Vera – Brand Visuals & Marketing Materials
 
-This repository contains a curated collection of visual previews for the Nousish Vera brand — a conceptual cosmetics line. The project includes billboard campaigns, product mockups, and sticker designs for items such as serums, creams, shampoos and perfumes.
+This repository offers a curated presentation of completed visual materials developed for Nousish Vera, a conceptual brand specializing in natural cosmetics and personal care. It features key marketing assets including large-format billboard designs, lifelike product mockups, and customized sticker visuals for packaging, highlighting the brand’s cohesive and refined visual identity in both outdoor advertising and product presentation.
 
 🛑 Note: PSD project files, editable mockups, or raw resources are not included in this repository. This is a showcase-only repo featuring finished works as static images.
 
