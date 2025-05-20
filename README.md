@@ -5,9 +5,10 @@ This repository offers a curated presentation of completed visual materials deve
 🛑 Note: Editable PSD project files are not included in this repository. This is a showcase-only repo featuring finished works as static images.
 
 ## Mockups 
-![Mockup1](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Mockups/mockup1.png)
-![Mockup2](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Mockups/mockup3.png)
-![Mockup3](https://github.com/nejrariizviic/Nousish-Vera-Brand-Visuals/blob/main/Mockups/mockup2.png)
+![Mockup1](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/main/Mockups/mockup1.png)
+![Mockup2](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/main/Mockups/mockup3.png)
+![Mockup3](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/main/Mockups/mockup2.png)
+
 
 ## Billboard
 ![Bl](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Assets/Billboards/Billboard3.png)
