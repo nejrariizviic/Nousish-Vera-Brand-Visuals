@@ -12,7 +12,7 @@ This repository offers a curated presentation of completed visual materials deve
 
 ## Billboard
 ![Bl](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Assets/Billboards/Billboard3.png)
-![B2](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Assets/Billboards/Billboard3.png)
+![B2](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Assets/Billboards/Billboard2.png)
 
 ## Stickers
 ![Sticker1](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Mockups/stickers.png)
