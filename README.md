@@ -21,7 +21,7 @@ This repository offers a curated presentation of completed visual materials deve
 ## Table of Contents  
 - [Project Overview](#project-overview)  
 - [Included Assets](#included-assets)  
-- [Tools used](#tools-used)
+- [Tools Used](#tools-used)
 
 
 ## Project Overview
