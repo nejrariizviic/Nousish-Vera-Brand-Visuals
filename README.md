@@ -16,8 +16,6 @@ This repository offers a curated presentation of completed visual materials deve
 
 ## Stickers
 ![Sticker1](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Mockups/stickers.png)
-![Sticker1](https://raw.githubusercontent.com/nejrariizviic/Nousish-Vera-Brand-Visuals/refs/heads/main/Mockups/stickers.png)
-
 
 
 ## Table of Contents  
