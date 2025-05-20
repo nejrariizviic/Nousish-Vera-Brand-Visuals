@@ -26,7 +26,7 @@ This repository contains a curated collection of visual previews for the Nousish
 
 ## Project Overview
 
-Nousish-Vera is a conceptual brand in the natural cosmetics and personal care domain, emphasizing elegance, simplicity, and a contemporary visual expression. The visual solutions in this project are designed to convey messages of purity, clarity, and a modern approach to branding.
+Nousish Vera is a conceptual brand in the natural cosmetics and personal care domain, emphasizing elegance, simplicity, and a contemporary visual expression. The visual solutions in this project are designed to convey messages of purity, clarity, and a modern approach to branding.
 
 The main goal of the project was to develop a distinctive visual identity that could be applied across various communication channels — from outdoor advertising to product packaging. The design was developed with attention to visual harmony through:
 
