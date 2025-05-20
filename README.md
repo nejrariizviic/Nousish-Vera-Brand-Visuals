@@ -26,7 +26,17 @@ This repository contains a curated collection of visual previews for the Nousish
 
 ## Project Overview
 
-Within repository, you can find design ideas and materials that reflect the core values of AL'NE Natural Cosmetics – authenticity, sustainability, and sophistication. These materials are still in the conceptual phase and were created to represent the brand’s vision across various formats. Although they are not finalized, you can see how these designs might look in real-life settings, as shown in the mockups (located in the folder) and 3D model.
+Nousish-Vera is a conceptual brand in the natural cosmetics and personal care domain, emphasizing elegance, simplicity, and a contemporary visual expression. The visual solutions in this project are designed to convey messages of purity, clarity, and a modern approach to branding.
+
+The main goal of the project was to develop a distinctive visual identity that could be applied across various communication channels — from outdoor advertising to product packaging. The design was developed with attention to visual harmony through:
+
+- consistent selection of typography and spacing, ensuring readability and a clean appearance
+
+- a minimalist yet striking style that highlights the key product elements
+
+- diverse use of colors tailored to the specifics of individual campaigns and products, allowing freshness and variety in the brand’s visual experience
+
+As a result, promotional billboards were created to demonstrate how the products fit into large-scale advertising contexts, realistic mockups simulate the application of designs in real environments, and sticker designs intended for packaging were developed.
 
 
 
